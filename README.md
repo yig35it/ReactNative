@@ -1,5 +1,7 @@
 
-# mobilUygulama ReactNative ödevler
+# MobilUygulama ReactNative ödevler
+
+
 
 # “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
 
