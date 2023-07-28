@@ -7,7 +7,7 @@ export default function App() {
           <Text>hello wwword!</Text>
       <Text>MERHABAYIN</Text>
       <Text>yayol</Text>
-      
+      <Text>yayol</Text>
       <Text>MEsdgakdsagkasgk</Text>
       <StatusBar style="cover" />
       
