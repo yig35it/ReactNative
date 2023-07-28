@@ -5,7 +5,7 @@
 
 # “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
 
-##V8, açık kaynaklı bir JavaScript motorudur ve Google tarafından geliştirilmiştir. Adını, adından da anlaşılacağı gibi, motorun V şeklindeki varsayılan sürüm numarasından alır. V8, JavaScript kodunu yüksek hızda çalıştırmak için tasarlanmıştır ve özellikle Google Chrome tarayıcısında kullanılmak üzere geliştirilmiştir. Ancak, zamanla başka platformlara da entegre edilmiş ve JavaScript dilinin yaygın olarak kullanıldığı birçok alanda etkili bir rol oynamıştır.
+## V8, açık kaynaklı bir JavaScript motorudur ve Google tarafından geliştirilmiştir. Adını, adından da anlaşılacağı gibi, motorun V şeklindeki varsayılan sürüm numarasından alır. V8, JavaScript kodunu yüksek hızda çalıştırmak için tasarlanmıştır ve özellikle Google Chrome tarayıcısında kullanılmak üzere geliştirilmiştir. Ancak, zamanla başka platformlara da entegre edilmiş ve JavaScript dilinin yaygın olarak kullanıldığı birçok alanda etkili bir rol oynamıştır.
 
 V8 Nasıl Çalışır?
 
