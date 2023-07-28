@@ -1,4 +1,2 @@
 # mobilUygulamaReactNative
-iiiiiişşş
-
-şşş
+yiğit ayol
