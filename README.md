@@ -1,13 +1,14 @@
 # mobilUygulama ReactNative ödevler
 
->
-```
-
-# “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
+># “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
 
 ## V8, açık kaynaklı bir JavaScript motorudur ve Google tarafından geliştirilmiştir. Adını, adından da anlaşılacağı gibi, motorun V şeklindeki varsayılan sürüm numarasından alır. V8, JavaScript kodunu yüksek hızda çalıştırmak için tasarlanmıştır ve özellikle Google Chrome tarayıcısında kullanılmak üzere geliştirilmiştir. Ancak, zamanla başka platformlara da entegre edilmiş ve JavaScript dilinin yaygın olarak kullanıldığı birçok alanda etkili bir rol oynamıştır.
 
-V8 Nasıl Çalışır?
+## 8 Nasıl Çalışır?
+
+```
+
+
 
 V8 motoru, Just-in-Time (JIT) derleme yöntemini kullanarak JavaScript kodunu yürütür. Çalışma prensibi oldukça karmaşıktır, ancak temelde şu adımları izler:
 
@@ -28,7 +29,11 @@ V8 JavaScript motoru, başta tarayıcılar olmak üzere birçok alanda kullanıl
 Web Tarayıcıları: Google Chrome, V8 motorunu kullanarak JavaScript kodlarını çalıştırır. Bu sayede Chrome, hızlı ve güçlü bir tarayıcı olmayı başarır.
 Node.js: Node.js, V8 motorunu temel alır ve sunucu tarafında JavaScript kodlarını yürütmek için kullanılır. Node.js sayesinde, etkili ve ölçeklenebilir sunucu uygulamaları geliştirilebilir.
 C++ Uygulamaları: V8, C++ uygulamalarına gömülebilir ve bu sayede C++ uygulamalarının JavaScript kodlarıyla etkileşim kurmasını sağlar.
-Sonuç
+
+
+##Sonuç
+```
+
 
 V8 JavaScript motoru, JavaScript kodlarını hızlı ve etkili bir şekilde çalıştırarak modern web uygulamalarının gücünü arttırır. Google tarafından geliştirilen bu açık kaynaklı motor, tarayıcılar ve Node.js gibi platformlarda yaygın olarak kullanılır. Performansı, taşınabilirliği ve güvenliği sayesinde, V8 motoru, günümüz web geliştirme dünyasında önemli bir rol oynamaktadır.
 ```
