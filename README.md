@@ -1,7 +1,7 @@
 # mobilUygulama ReactNative ödevler
 
 >
-
+```
 
 # “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
 
@@ -31,3 +31,4 @@ C++ Uygulamaları: V8, C++ uygulamalarına gömülebilir ve bu sayede C++ uygula
 Sonuç
 
 V8 JavaScript motoru, JavaScript kodlarını hızlı ve etkili bir şekilde çalıştırarak modern web uygulamalarının gücünü arttırır. Google tarafından geliştirilen bu açık kaynaklı motor, tarayıcılar ve Node.js gibi platformlarda yaygın olarak kullanılır. Performansı, taşınabilirliği ve güvenliği sayesinde, V8 motoru, günümüz web geliştirme dünyasında önemli bir rol oynamaktadır.
+```
