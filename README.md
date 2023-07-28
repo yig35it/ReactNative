@@ -2,10 +2,6 @@
 # MobilUygulama ReactNative ödevler
 
 
-
-
-
-
 # “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
 
 ##  V8, açık kaynaklı bir JavaScript motorudur ve Google tarafından geliştirilmiştir. 
@@ -42,3 +38,5 @@ V8 JavaScript motoru, başta tarayıcılar olmak üzere birçok alanda kullanıl
 ## Sonuç
 
 V8 JavaScript motoru, JavaScript kodlarını hızlı ve etkili bir şekilde çalıştırarak modern web uygulamalarının gücünü arttırır. Google tarafından geliştirilen bu açık kaynaklı motor, tarayıcılar ve Node.js gibi platformlarda yaygın olarak kullanılır. Performansı, taşınabilirliği ve güvenliği sayesinde, V8 motoru, günümüz web geliştirme dünyasında önemli bir rol oynamaktadır.
+
+![Doğa Manzarası](indirjpg)
