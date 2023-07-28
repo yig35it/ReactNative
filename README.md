@@ -1,22 +1,20 @@
+<li></li>
 # mobilUygulama ReactNative ödevler
 
 ># “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
 
 ## V8, açık kaynaklı bir JavaScript motorudur ve Google tarafından geliştirilmiştir. Adını, adından da anlaşılacağı gibi, motorun V şeklindeki varsayılan sürüm numarasından alır. V8, JavaScript kodunu yüksek hızda çalıştırmak için tasarlanmıştır ve özellikle Google Chrome tarayıcısında kullanılmak üzere geliştirilmiştir. Ancak, zamanla başka platformlara da entegre edilmiş ve JavaScript dilinin yaygın olarak kullanıldığı birçok alanda etkili bir rol oynamıştır.
 
-## 8 Nasıl Çalışır?
+##  V8 Nasıl Çalışır?
 
 ```
+1.) V8 motoru, Just-in-Time (JIT) derleme yöntemini kullanarak JavaScript kodunu yürütür. Çalışma prensibi oldukça karmaşıktır, ancak temelde şu adımları izler:
 
-
-
-V8 motoru, Just-in-Time (JIT) derleme yöntemini kullanarak JavaScript kodunu yürütür. Çalışma prensibi oldukça karmaşıktır, ancak temelde şu adımları izler:
-
-Kaynak Kod Analizi: V8, JavaScript kaynak kodunu ilk olarak analiz eder ve anlamlı bir şekilde işlemek için soyut bir sözdizimi ağacı (Abstract Syntax Tree — AST) oluşturur.
+ Kaynak Kod Analizi: V8, JavaScript kaynak kodunu ilk olarak analiz eder ve anlamlı bir şekilde işlemek için soyut bir sözdizimi ağacı (Abstract Syntax Tree — AST) oluşturur.
 Sürümlendirme (Profiling): V8, kodun çalışma zamanındaki performansını izler ve önemli alanları belirlemek için sürümlendirme (profiling) adı verilen bir teknik kullanır.
 Bytecode Oluşturma: Profillemeye dayanarak, V8 motoru işlemeyi hızlandırmak için ara birim kodu olan bytecode’u oluşturur.
 JIT Derleme: V8, bytecode’u optimize edilmiş makine koduna dönüştüren JIT derleme (Just-in-Time compilation) yapar. Bu sayede kod, doğrudan bilgisayarın anlayabileceği makine koduna çevrilir ve daha hızlı bir şekilde çalıştırılır.
-V8'in Özellikleri
+V8'in Özellikleri </li> 
 
 Hız: V8, yüksek performanslı bir JavaScript motorudur ve özellikle web uygulamalarında hızlı yürütme sağlar. JIT derlemesi sayesinde, kodun çalışma süresi önemli ölçüde azaltılır ve uygulamalar daha hızlı tepki verir.
 Taşınabilirlik: V8, platformlar arasında taşınabilir bir yapıya sahiptir. Bu, motorun birden fazla platformda ve cihazda kullanılmasını sağlar.
