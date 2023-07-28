@@ -1,2 +1,3 @@
-# mobilUygulamaReactNative
+# mobilUygulamaReactNative ödevler
+
 yiğit ayol
