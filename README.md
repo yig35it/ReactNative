@@ -3,6 +3,9 @@
 
 
 
+
+
+
 # “V8 JavaScript Motoru: Modern Web Uygulamalarına Hız ve Güç Katıyor”
 
 ##  V8, açık kaynaklı bir JavaScript motorudur ve Google tarafından geliştirilmiştir. 
